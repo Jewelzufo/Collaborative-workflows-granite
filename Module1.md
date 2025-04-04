@@ -1,5 +1,8 @@
 # Module 1: Unveiling IBM Granite 3.2
 
+![Module 1: Unveiling IBM Granite 3.2](https://github.com/Jewelzufo/Collaborative-workflows-granite/blob/main/ChatGPT%20Image%20Apr%203,%202025,%2010_28_09%20PM.png?raw=true)
+
+
 ## Lesson 1: The IBM Granite Family
 
 IBM Granite 3.2 is a groundbreaking addition to the world of enterprise AI, but it's essential to understand its roots and the family it belongs to. The IBM Granite family is a series of AI models specifically designed for enterprise environments, each building upon the strengths of its predecessors.
