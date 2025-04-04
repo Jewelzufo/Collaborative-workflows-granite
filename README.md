@@ -13,3 +13,7 @@ This course aims to share foundational knowledge on Enterprise use of IBM's Gran
 ---
 🕔 [Module 5](https://github.com/Jewelzufo/Collaborative-workflows-granite/blob/main/Module5.md)
 ---
+
+## Try Granite in WastonX!
+[Visit IBM watsonx](https://watsonx.ai/)
+
